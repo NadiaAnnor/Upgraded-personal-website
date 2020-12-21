@@ -1,0 +1,31 @@
+body {
+  background-color: #87d4c5;
+  font-family:"Sofia", sans-serif;
+
+}
+
+img{
+  border-radius: 100%;
+  width: 230px;
+}
+
+
+
+h1 {
+  color: #0A043C;
+
+
+}
+h2 {
+  color: #0A043C;
+
+}
+
+hr {
+
+ border-style:none;
+ border-top-style: dotted;
+ border-color: black;
+ border-width: 5px;
+ width: 5%;
+}
